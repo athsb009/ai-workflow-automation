@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# API Keys (IMPORTANT!)
+config_local.py
+.env.local
+
+# Browser automation data
+user_data/
+.playwright/
+
+# Output files (optional - you might want to include some for demo)
+outputs/*/error_*.png
+outputs/*/*.old
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+

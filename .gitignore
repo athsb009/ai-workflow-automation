@@ -8,30 +8,21 @@ __pycache__/
 dist/
 build/
 
-# Environment variables
+# Environment
 .env
 .venv
-env/
 venv/
+ENV/
 
-# API Keys (IMPORTANT!)
-config_local.py
-.env.local
-
-# Browser automation data
-user_data/
-.playwright/
-
-# Output files (optional - you might want to include some for demo)
-outputs/*/error_*.png
-outputs/*/*.old
-
-# IDE
+# IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+
+# Project specific
+data/user_data/   # Browser session data (contains login info)
 
 # OS
 .DS_Store
@@ -39,8 +30,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Temporary files
-*.tmp
-temp/
-

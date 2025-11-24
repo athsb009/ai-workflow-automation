@@ -1,0 +1,14 @@
+2025/11/23-15:15:26.316 161d878 Reusing MANIFEST /Users/atharvabibave/untitled folder 5/data/user_data/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/23-15:15:26.317 161d878 Recovering log #42
+2025/11/23-15:15:26.317 161d878 Reusing old log /Users/atharvabibave/untitled folder 5/data/user_data/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000042.log 
+2025/11/23-15:15:26.317 161d878 Delete type=2 #40
+2025/11/23-15:15:27.246 161d877 Level-0 table #47: started
+2025/11/23-15:15:27.247 161d877 Level-0 table #47: 2981 bytes OK
+2025/11/23-15:15:27.264 161d877 Delete type=0 #42
+2025/11/23-15:15:27.265 161d877 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 3297 : 1
+2025/11/23-15:15:27.265 161d877 Compacting 1@0 + 1@1 files
+2025/11/23-15:15:27.265 161d877 Generated table #48@0: 880 keys, 12630 bytes
+2025/11/23-15:15:27.265 161d877 Compacted 1@0 + 1@1 files => 12630 bytes
+2025/11/23-15:15:27.266 161d877 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/23-15:15:27.266 161d877 Delete type=2 #47
+2025/11/23-15:15:27.266 161d877 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 3297 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -11,7 +11,7 @@ workflow-automation/
 │
 ├── src/                           # Core source code
 │   ├── __init__.py
-│   ├── adaptive_planner.py        # AI workflow planning (GPT-4o)
+│   ├── adaptive_planner.py        # AI workflow planning (GPT-5.1)
 │   ├── adaptive_executor.py       # Multi-strategy execution engine
 │   ├── perception.py              # State detection & visual marks
 │   ├── config.py                  # Platform configurations
@@ -47,7 +47,7 @@ The main automation engine.
 
 | File | Purpose | Lines | Key Features |
 |------|---------|-------|--------------|
-| **`adaptive_planner.py`** | AI workflow planning | 237 | GPT-4o planning, vision feedback, selector discovery |
+| **`adaptive_planner.py`** | AI workflow planning | 237 | GPT-5.1 planning, vision feedback, selector discovery |
 | **`adaptive_executor.py`** | Execution engine | 333 | Multi-strategy fallbacks, self-healing, verification |
 | **`perception.py`** | State detection | 93 | Content hashing, visual mark injection |
 | **`config.py`** | App configurations | 98 | Minimal context per platform |
@@ -307,4 +307,3 @@ python tests/test_myapp.py
 
 ---
 
-**Clean, organized, and ready for submission!** ✅

@@ -10,7 +10,7 @@ An AI-driven system that captures workflows on web applications by analyzing tas
 
 A system that:
 - Takes a natural language task (e.g., "How do I search for Python on YouTube?")
-- Plans the workflow using GPT-4o
+- Plans the workflow using GPT-5.1
 - Executes steps using Playwright browser automation
 - Captures screenshots of each state (including non-URL states like modals)
 - Self-corrects when actions fail using AI vision feedback

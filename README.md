@@ -241,9 +241,6 @@ python tests/test_linear.py
 ```
 
 ---
-**Success Rates:**
-- YouTube: 90-95% (simple, stable UI)
-- Linear: 80-90% (complex, authenticated)
 
 **Output for Each Workflow:**
 - Step-by-step markdown guide

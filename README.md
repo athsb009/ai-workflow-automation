@@ -56,7 +56,7 @@ open dataset/youtube_search_python/README.md
 
 | Component | Purpose | Key Feature |
 |-----------|---------|-------------|
-| **Adaptive Planner** | AI plans workflow steps | Uses GPT-4o to generate plans from natural language |
+| **Adaptive Planner** | AI plans workflow steps | Uses GPT-5.1 to generate plans from natural language |
 | **Adaptive Executor** | Executes steps with retries | Multi-strategy fallbacks (7+ approaches per action) |
 | **Perception System** | Detects UI state changes | Content hashing detects non-URL states |
 | **Report Generator** | Creates documentation | Markdown guides with embedded screenshots |
